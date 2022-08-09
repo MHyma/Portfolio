@@ -185,6 +185,7 @@ nav.navbar.sticky .right a:hover {
   color: var(--pure);
   margin-bottom: 1.5rem;
   margin-top: 1rem;
+  padding-top: 10px;
 }
 
 .hero .right h2 {
@@ -1165,7 +1166,7 @@ nav.navbar1.sticky .logo a span {
     font-size: 1.9rem;
     font-weight: 100;
     line-height: 1.2;
-    margin-bottom: 4rem;
+    margin-bottom: 1.5rem;
   }
   .hero .right h5 span {
     color: var(--primary);
@@ -1441,6 +1442,7 @@ nav.navbar1.sticky .logo a span {
   .hero {
     padding-top: 10rem;
   }
+
   header {
     clip-path: polygon(0 0, 100% 0, 100% 100%, 27% 89%, 0 100%);
   }
